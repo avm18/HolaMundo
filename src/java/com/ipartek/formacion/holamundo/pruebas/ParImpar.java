@@ -3,7 +3,7 @@ package com.ipartek.formacion.holamundo.pruebas;
 import com.ipartek.formacion.holamundo.pojo.Alumno;
 
 public class ParImpar {
-
+	//cambio tonto para probar git
 	public static void main(String[] args) {
 		System.out.println("Primer Ejercicio");
 
